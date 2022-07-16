@@ -1,0 +1,21 @@
+.navbar {
+    height:100px;
+
+}
+
+form {
+    margin-top: 5vh;
+    border: 1px solid #333;
+    padding: 40px;
+    border-radius: 5px;
+}
+
+.table {
+    margin-top: 5vh;
+    border-radius: 10px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+}
